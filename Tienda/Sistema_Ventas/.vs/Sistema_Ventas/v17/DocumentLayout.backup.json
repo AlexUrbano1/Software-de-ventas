@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex Urbano\\Desktop\\SOFTWARE DE VENTAS\\Tienda\\Sistema_Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{839BBD4B-1331-40D9-817D-88DB2DBD14F6}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\alex urbano\\desktop\\software de ventas\\tienda\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Urbano\\Desktop\\SOFTWARE DE VENTAS\\Tienda\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Alex Urbano\\Desktop\\SOFTWARE DE VENTAS\\Tienda\\CapaDatos\\Conexion.cs*",
+              "RelativeToolTip": "..\\CapaDatos\\Conexion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:41:33.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

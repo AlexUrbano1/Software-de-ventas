@@ -1,0 +1,345 @@
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 2\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 3\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 4\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 5\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 6\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 7\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 8\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Downloads\Video 9\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 10\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 11\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 12\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE VENTAS HISTORIAL\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\novae\OneDrive\Documents\Video 13\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\novae\OneDrive\NEGOCIO POPAYAN\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Documents\Software ventas\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+D:\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+D:\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+D:\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+D:\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+D:\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+D:\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\novae\OneDrive\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Documents\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\OneDrive\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Documents\SOFTWARE ERIKA\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.deps.json
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.csproj.Up2Date
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\refint\CapaDatos.dll
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\Alex Urbano\Desktop\SOFTWARE DE VENTAS\Tienda\CapaDatos\obj\Debug\net8.0-windows\ref\CapaDatos.dll

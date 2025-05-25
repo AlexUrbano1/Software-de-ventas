@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex Urbano\\OneDrive\\NEGOCIO POPAYAN\\SOFTWARE DE VENTAS\\Tienda\\Sistema_Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A9CC65-2317-4A93-9BE4-D1F4B49A47C0}|CapaPresentacion.csproj|c:\\users\\alex urbano\\onedrive\\negocio popayan\\software de ventas\\tienda\\sistema_ventas\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A9CC65-2317-4A93-9BE4-D1F4B49A47C0}|CapaPresentacion.csproj|solutionrelative:frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839BBD4B-1331-40D9-817D-88DB2DBD14F6}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\alex urbano\\onedrive\\negocio popayan\\software de ventas\\tienda\\capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A9CC65-2317-4A93-9BE4-D1F4B49A47C0}|CapaPresentacion.csproj|c:\\users\\alex urbano\\onedrive\\negocio popayan\\software de ventas\\tienda\\sistema_ventas\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A9CC65-2317-4A93-9BE4-D1F4B49A47C0}|CapaPresentacion.csproj|solutionrelative:frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CD_Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Urbano\\OneDrive\\NEGOCIO POPAYAN\\SOFTWARE DE VENTAS\\Tienda\\CapaDatos\\CD_Compra.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Compra.cs",
+              "ToolTip": "C:\\Users\\Alex Urbano\\OneDrive\\NEGOCIO POPAYAN\\SOFTWARE DE VENTAS\\Tienda\\CapaDatos\\CD_Compra.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Compra.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:14:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCompras.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Urbano\\OneDrive\\NEGOCIO POPAYAN\\SOFTWARE DE VENTAS\\Tienda\\Sistema_Ventas\\frmCompras.cs",
+              "RelativeDocumentMoniker": "frmCompras.cs",
+              "ToolTip": "C:\\Users\\Alex Urbano\\OneDrive\\NEGOCIO POPAYAN\\SOFTWARE DE VENTAS\\Tienda\\Sistema_Ventas\\frmCompras.cs",
+              "RelativeToolTip": "frmCompras.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAADEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:41:57.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex Urbano\\OneDrive\\NEGOCIO POPAYAN\\SOFTWARE DE VENTAS\\Tienda\\Sistema_Ventas\\frmCompras.cs",
+              "RelativeDocumentMoniker": "frmCompras.cs",
+              "ToolTip": "C:\\Users\\Alex Urbano\\OneDrive\\NEGOCIO POPAYAN\\SOFTWARE DE VENTAS\\Tienda\\Sistema_Ventas\\frmCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:39:28.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
