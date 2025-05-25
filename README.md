@@ -19,6 +19,7 @@ Este es un sistema de ventas de escritorio desarrollado en **C# con Windows Form
 - Base de datos: **SQL Server**  
 - IDE: **Visual Studio**
 Imágenes previas:
+
 ![Captura de pantalla 2025-05-25 034110](https://github.com/user-attachments/assets/2ab093ee-fd44-4189-9e5a-8a02b9069c3c)
 
 ![Captura de pantalla 2025-05-25 034200](https://github.com/user-attachments/assets/740ae71f-9e36-441a-b006-709fa5a7e1cb)
