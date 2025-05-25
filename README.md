@@ -10,7 +10,7 @@ Este es un sistema de ventas de escritorio desarrollado en **C# con Windows Form
 - Gestión de usuarios (si aplica)  
 - Interfaz sencilla y funcional  
 - Base de datos local con SQL Server  
-- Actualmente en pruebas con ventas reales y en mejora continua.
+- Actualmente en pruebas con ventas reales y en proceso de mejoras a nivel de código.
 
 ## 🛠️ Tecnologías utilizadas
 
