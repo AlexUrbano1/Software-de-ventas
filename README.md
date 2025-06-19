@@ -1,6 +1,6 @@
 # 🛒 Software de Ventas por Catálogo
 
-Este es un sistema de ventas de escritorio desarrollado en **C# con Windows Forms** y **SQL Server**, diseñado para la gestión personal de ventas de productos por catálogo. Fue creado como solución interna para controlar inventario, registrar ventas y organizar productos, en preparación para el lanzamiento de un emprendimiento.
+Este es un sistema de ventas de escritorio desarrollado en **C# con Windows Forms** y **SQL Server**, diseñado para la gestión personal de ventas de productos por catálogo. Fue creado como solución interna para controlar inventario, registrar ventas y organizar productos, actualmente en uso de manera interna para controlar las ventas.
 
 ## ✅ Características
 
